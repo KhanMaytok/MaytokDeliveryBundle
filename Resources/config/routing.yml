@@ -1,0 +1,3 @@
+maytok_delivery_homepage:
+    path:     /
+    defaults: { _controller: MaytokDeliveryBundle:Default:index }

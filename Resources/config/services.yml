@@ -1,0 +1,4 @@
+services:
+#    maytok_delivery.example:
+#        class: Maytok\DeliveryBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
