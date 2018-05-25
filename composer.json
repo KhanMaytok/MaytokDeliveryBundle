@@ -1,0 +1,30 @@
+{
+    "name" : "maytok/deliverybundle",
+    "description" : "DeliveryBundle",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "Giancarlo Ventura",
+        "email" : "khan@maytok.com"
+    }],
+    "keywords" : [
+        "demo bundle"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "Maytok\\DeliveryBundle" : ""
+        }
+    },
+    "target-dir" : "Maytok/DeliveryBundle",
+    "repositories" : [{
+    }],
+    "extra" : {
+    "branch-alias" : {
+            "dev-master" : "2.0.x-dev"
+        }
+    }
+}
